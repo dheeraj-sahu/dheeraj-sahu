@@ -20,27 +20,17 @@ I am a Computer Science undergraduate at the National Institute of Technology, D
 
 ---
 
-## 💼 Experience
-
-**Backend Developer Intern**  
-*Doorstep Delhi | Remote | Jun 2024 – Aug 2024*  
-- Designed and optimized REST APIs using Django, reducing response latency by 40%.  
-- Integrated Leaflet.js for geospatial features to enhance user interaction.  
-- Collaborated in a 4-member team to deploy 20+ modules with a 95% success rate.
-
----
 
 ## 🧪 Selected Projects
 
-### [DiaPredictor](https://github.com/dheeraj-sahu/Diabetes-Prediction-Analysis/tree/main) — *Machine Learning Model*
-- Developed a diabetes risk prediction model using logistic regression.
-- Implemented SMOTE for class balancing and achieved 77.3% accuracy with ROC-AUC of 0.83.
+### [Cryptocurrency Matching Engine](https://github.com/dheeraj-sahu/Cryptocurrency-Matching-Engine) — *Python + FastAPI*
+- A fast, REG NMS–inspired cryptocurrency matching engine built with FastAPI. Developed as part of a technical assignment given by GoQuant.
 
 ### [Web Archive System](https://github.com/dheeraj-sahu/Web_Crawler) — *C++ Web Crawler*
 - Engineered a BFS-based crawler and KMP-indexed search engine; compressed data by 65%.
 - Achieved keyword search performance under 100 ms using efficient indexing.
 
-### [QR Code Generator & Scanner](https://github.com/dheeraj-sahu/qr_code_generator_scanner) — *Full-Stack Application*
+### [QR Code Generator & Scanner](https://github.com/dheeraj-sahu/qr_code_generator_scanner) — *Django Application*
 - Built a Django-based QR tool with OpenCV integration, processing 500+ scans with 99.2% accuracy.
 - Ensured seamless navigation and high input validation accuracy across multiple user sessions.
 
