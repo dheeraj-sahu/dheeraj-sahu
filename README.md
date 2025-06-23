@@ -23,9 +23,6 @@ I am a Computer Science undergraduate at the National Institute of Technology, D
 
 ## 🧪 Selected Projects
 
-### [Cryptocurrency Matching Engine](https://github.com/dheeraj-sahu/Cryptocurrency-Matching-Engine) — *Python + FastAPI*
-- A fast, REG NMS–inspired cryptocurrency matching engine built with FastAPI. Developed as part of a technical assignment given by GoQuant.
-
 ### [Web Archive System](https://github.com/dheeraj-sahu/Web_Crawler) — *C++ Web Crawler*
 - Engineered a BFS-based crawler and KMP-indexed search engine; compressed data by 65%.
 - Achieved keyword search performance under 100 ms using efficient indexing.
